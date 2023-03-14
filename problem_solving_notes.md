@@ -151,7 +151,20 @@ Exemplo
 
 
 * Seja MECE!
+  * MECE significa Mutuamente Excludente Coletivamente Exaustivo
+  * Mutuamente Excludente significa que diferentes galhos no mesmo nível da árvore não se sobrepõem
+  * Coletivamente Exaustivo significa que, em cada nível da árvore, as alternativas cobrem todas as possibilidades de solução
+  * O objetivo é que todos os níveis da árvore sejam MECE mas nem sempre isso é possível. Cuidado com o perfeccionismo - é melhor ter uma primeira versão no papel, mesmo que ainda não seja a versão ideal, e iterar com outras pessoas envolvidas no problema para capturar outras perspectivas e tornar sua árvore mais relevante
+
+<br>
+
 
 * Dicas para construir árvores de questões
+  * **Mantenha simples e ajuste depois.** Você não deveria gastar uma semana montando uma árvore perfeita porque não existe árvore perfeita. Há mais de uma boa solução de árvore para cada problema.
+  * **Faça uma primeira versão e itere. Compartilhe!** Sua árvore vai mudar e evoluir à medida que você pegar inputs de outras pessoas e à medida que mais fatos vão sendo revelados.
+  * **Experimente diferentes maneiras de montar a árvore.** Existem várias formas de quebrar um problema e você pode experimentar diferentes alternativas para ver a que melhor se encaixa. Se queremos lançar um novo produto, podemos explorar uma árvore usando como base os 4Ps do marketing (produto, preço, praça e promoção) ou podemos pensar nas etapas do processo que vai desde a concepção até o lançamento do novo produto (qual o público alvo, como definir a proposta de valor, como vender, como distribuir, como escalar a produção para atender a demanda). Outro ponto de dúvida é sobre que tipo de perguntas utilizar. As perguntas mais utilizadas nesta etapa começam com "como" pois ajudam a nos orientar para a ação. Mas, em alguns casos, outros tipos de perguntas também podem ajudar. Perguntas começando com "qual" (qual o público alvo?) ou "onde" (onde devemos focar?) são alguns exemplos de perguntas que também aparecem com frequência. Existe flexibilidade, mas não se esqueça de garantir que sua árvore de questões esteja MECE.
+  * **Busque múltiplas perspectivas.** Um estudo da McKinsey mostrou que a capacidade de incorporar múltiplas perspectivas na resolução de problemas é um dos quatro comportamentos de liderança que distinguem os líderes excelentes dos bons. A árvore de questões será mais rica e relevante se você envolver experts, stakeholders e pessoas de estilos e formações diferentes. Sessões de resolução de problemas com a equipe usando árvores trazem a criatividade de todos à tona, tendem a trazer melhores respostas e são mais divertidas para a equipe. Quando você deveria buscar essas perspectivas? Fale com algumas pessoas que conhecem o problema, faça uma primeira versão da árvore e use-a como base da discussão com a equipe para enriquecê-la, gerar ideias, etc.
+
+  
 
 * Árvore de hipóteses
