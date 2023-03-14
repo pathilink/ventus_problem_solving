@@ -31,7 +31,7 @@
 
 <br>
 
-## Capítulo 1
+## Capítulo 1 - Definição
 
 [Retorna a Tabela de Conteúdos](#tabela-de-conte%C3%BAdos)
 
@@ -73,7 +73,7 @@
 * O guia de definição do problema
 
   * Questão-chave
-    * Articule uma pergunta sobre o que precisa ser solucionado 
+    * Articule uma pergunta sobre o que precisa ser solucionado
     * Precisa ser SMART
     * Não pode ser ampla ou restrita demais
   * Contexto
@@ -91,8 +91,8 @@
     * Ter alinhamento da equipe sobre o que NÃO faz parte do escopo
     * Pensar se há alguma restrição, por exemplo, orçamento
   * Partes envolvidas (stakeholders)
-    * Listar os principais interessados na solução: 
-      * quem pode apoiar ou bloquear a solução 
+    * Listar os principais interessados na solução:
+      * quem pode apoiar ou bloquear a solução
       * quem pode afetar a maneira que a solução será implementada
     * Engajar as pessoas: identificar os ganhos com a solução
   * Fontes-chave de inspiração
@@ -106,3 +106,52 @@
   * Não tome decisões com base na primeira impressão ou ideia
   * Use a definição do problema como aliada
   * Pense nos elementos do guia de definição do problema, principalmente as partes envolvidas e o escopo
+
+<br>
+
+## Capítulo 2 - Estruturação
+
+Estruturar é quebrar o problema em partes menores. Existem várias maneiras de estruturar e isso vai depender do tipo e da complexidade do problema
+
+A partir da estrutura, é importante convergir para uma hipótese de solução e começar a testá-la rapidamente
+
+* Estruturar para quê?
+  * Problemas complexos possuem diversas frentes e perspectivas que precisam ser consideradas
+  * Quebrar o problema ajuda a ter mais clareza sobre os próximos passos
+  * Uma boa estrutura ajuda na divisão do trabalho de análise e facilita a priorização
+
+<br>
+
+* Usando árvores lógicas para estruturar o problema
+  * Árvores lógicas quebram o problema de forma visual
+  * A árvore de questões é uma das mais simples e começa a partir da questão-chave do problema
+  * Não existe árvore perfeita, existem várias formas de estruturar o mesmo problema
+  * Modelos clássicos de mercado e frameworks podem ser úteis em alguns casos para quebrar sua árvore em partes menores (demanda e oferta; 4Ps de marketing; 5 forças de Porter, etc.)
+  * Quando se chega ao fim da árvore?
+    * Quando se pode determinar uma ação ou uma análise que vai te dar uma resposta à pergunta
+
+```
+Exemplo
+¦   
++---Como economizar dinheiro?
+    ¦
+    +---Ganhar mais
+        ¦   
+        +---Ganhar mais por hora
+        ¦   +---Pedir aumento
+        ¦   +---Tentar uma promoção
+        +---Trabalhar mais horas
+        ¦   +---Fazer hora extra
+        ¦   +---Trabalhar fim de semana
+    ¦
+    +---Gastar menos
+```
+
+<br>
+
+
+* Seja MECE!
+
+* Dicas para construir árvores de questões
+
+* Árvore de hipóteses
