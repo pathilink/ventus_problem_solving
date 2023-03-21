@@ -218,4 +218,44 @@ Exemplo
 
 <br>
 
-* 
+## Capítulo 3 - Priorização
+
+> "Decidir o que fazer é tão importante quanto decidir o que fazer." - Steve Jobs
+
+* Quando você tem um problema complexo, com vários elementos para resolver, é normal a sensação de paralização ou de perda de tempo passando de uma coisa para outra sem muito foco.
+
+* Uma boa priorização é chave para trazer o máximo de impacto de forma focada e rápida.
+
+* Aqueles que conseguem consistentemente priorizar estão entre os mais valorizados nas organizações.
+
+* Para priorizar é necessário ter uma mentalidade de foco, ou seja, fazer conscientemente menos coisas e proteger tempo para focar nas mais importantes.
+
+* A mentalidade do foco e o 80/20
+  * Tipicamente 80% do impacto para a solução de um problema vem de apenas 20% das iniciativas.
+  * Cuidado com o perfeccionismo: ao tentar fazer análises 100% "perfeitas" você está perdendo tempo na solução do seu problema. É mais eficiente apostar no 80/20 e montar uma primeira versão 80% boa e discutir com as partes envolvidas para avançar em direção à solução do que perder 5x mais tempo tentando fazer uma análise 100% boa.
+  * Cada minuto que você gasta fazendo algo que não é a sua prioridade máxima é um minuto desperdiçado. Seja sempre 80/20!
+
+* Matriz de priorização
+  * Para definir que elementos do seu problema priorizar, você deve levar em consideração as dimensões mais importantes para o seu problema. Existem 2 dimensões que são utilizadas com muita frequência para priorizar: impacto e viabilidade.
+  * Possíveis dimensões:
+    * Impacto
+    * Velocidade de captura do impacto
+    * Facilidade de implementação
+    * Custos iniciais de implementação
+    * Riscos envolvidos
+    * Dificuldade em "vender a ideia" internamente
+  * Mas cuidado, estas dimensões podem querer dizer coisas diferentes em função da definição do problema.
+  * Para estimar o impacto de cada iniciativa ou elemento do seu problema, você pode usar contas de padeiro - contas rápidas que podemos fazer com algumas premissas.
+  * Experts e benchmarks podem dar mais precisão às contas de padeiro.
+  * Por fim, você pode organizar estas informações de forma gráfica em uma matriz impacto x viabilidade, priorizando as iniciativas de maior impacto e que tem alta viabilidade.
+  * [Matriz de priorização:]()
+
+* Sob pressão
+  * Priorize as questões mais decisivas
+    * Quando falamos de priorizar questões, queremos saber quais perguntas devemos responder primeiro, em quais vale mais a pena investir recursos para analisar mais a fundo. Priorize as perguntas mais fundamentais, aquelas que poderiam mudar completamente o rumo da sua decisão.
+  * Assuma riscos
+    * Dificilmente é possível obter todos os dados que gostaríamos para tomar a melhor decisão, ainda mais quando temos pouco tempo. Nesse caso, é necessário assumir riscos. Os riscos, no entanto, devem ser conhecidos e calculados.
+  * Use intuição e experiência
+    * Confie na sua experiência e na de sua equipe, ou busque a opinião de pessoas que entendem do assunto em questão.
+  * Desafie sua priorização inicial
+    * Pense em que atalhos poderia tomar. Pergunte-se: "e se eu só tivesse a metade do tempo, o que faria?" Essa pergunta nos força a pensar em atalhos e a entender o que é realmente importante.
