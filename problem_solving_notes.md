@@ -259,3 +259,69 @@ Exemplo
     * Confie na sua experiência e na de sua equipe, ou busque a opinião de pessoas que entendem do assunto em questão.
   * Desafie sua priorização inicial
     * Pense em que atalhos poderia tomar. Pergunte-se: "e se eu só tivesse a metade do tempo, o que faria?" Essa pergunta nos força a pensar em atalhos e a entender o que é realmente importante.
+
+## Capítulo 4 - Análise
+
+* Esta etapa pode ser a mais demorada e, por isso, precisa ser planejada com cuidado. Tipicamente, a fase de análise é onde a coordenação e o trabalho em equipe são mais relevantes, pois é necessário sintetizar frequentemente os aprendizados das diferentes análises, de modo a garantir que a solução encontrada é robusta o suficiente.
+
+* Um mundo cada vez mais analítico
+  * Temos uma tendência a superestimar nossas habilidades e a probabilidade de eventos futuros favoráveis.
+  * Mas estamos em um mundo cada vez mais complexo onde o risco de confiar somente em nossa intuição para tomar decisões é cada vez maior.
+  * Com abundância de dados, saber fazer boas análises e usar esses dados ao nosso favor é o mais próximo que conseguimos chegar de ter superpoderes.
+
+* Analisando com fatos e dados
+  * Faça testes e análises para comprovar ou refutar suas hipóteses.
+  * Não desista da sua solução se ela estiver baseada em fatos e dados. Pode haver resistência a mudanças.
+  * Você não precisa entender as causas do problema em todos os detalhes para encontrar uma solução para o seu problema.
+
+* Planejando com uma tabela de análises
+  * Para projetos complexos que envolvem muitas variáveis e análises, é preciso se planejar.
+  * Um plano de trabalho garante que você está fazendo as análises certas na ordem certa.
+  * A tabela de análises é uma ferramenta útil na hora de planejá-las. Para montar sua tabela você deve levar em consideração: a hipótese a ser testada, argumentos que justifiquem a hipótese, análises, fontes de informação, prazo e responsáveis.
+  * Análises quantitativas típicas
+    * **Comparação** - mostra o tamanho de cada parte como percentual do total.
+    * **Frequência** - mostra quais resultados são mais ou menos frequentes em uma amostra.
+    * **Evolução** - mostra o comportamento de uma ou mais variáveis ao longo do tempo.
+    * **Desagregação** - mostra os principais elementos que constroem ou desconstroem um resultado.
+    * **Correlação** - mostra a relação entre o comportamento de duas variáveis.
+    * **Segmentação** - mostra como é possível agrupar elementos que possuem alguns comportamentos similares.
+
+* Conduzindo análises
+  * Você maximiza o impacto quando combina análises qualitativas e quantitativas.
+  * Ter todas as análises prontas não é o suficiente para te dar uma resposta para o problema. Você precisa do que chamamos de "e daí?" da conclusão que podemos extrair a partir das análises. Por exemplo: a análise corrobora ou derruba nossa hipótese? O que mais precisamos aprender para avançar na solução do problema?
+  * Uma boa prática é se perguntar "e daí?" ao finalizar cada análise. Este processo te ajuda a chegar mais próximo da resposta e continuar avançando.
+
+* Dicas para análises de sucesso
+  * Envolva o time
+    * Alguns líderes querem fazer tudo sozinhos. Pensam em que análises fazer. Detalham como deve ser o produto final e aí vão até um membro da equipe e dizem, "Muito bem você entrevistar essa pessoa, precisa perguntar isso e isso". Essa abordagem pode te trazer um resultado aceitável ao final, mas reduz o engajamento da equipe e faz com que você não extraia o melhor das pessoas.
+  * Equilibre o trabalho
+    * Garanta que você está equilibrando o trabalho entre os membros da equipe. Conheça seu time e distribua as tarefas conforme as fortalezas de cada pessoa, equilibrando a carga de trabalho entre elas.
+  * Aplique o 80/20
+    * Não esqueça do 80/20 ao fazer análises. Mesmo quando você está analisando uma hipótese prioritária, existirão análises "matadoras" e outras que são complementares. Priorize as "matadoras". Considere também a sequência. Se existir um pedido grande de dados a ser feito, priorize para receber o resultado a tempo. Entrevistas e pesquisas de mercado também levam tempo e requerem preparação. Garanta que você está pensando e focando nas análises mais prioritárias e nas coisas que levam mais tempo para executar.
+  * Busque atalhos
+    * É muito comum existir uma análise ideal, super completa e uma análise mais simples que é boa o suficiente. Por isso, sempre pergunte para a equipe: "que análise você faria se tivesse 50% do tempo e dos recursos?" Muitas vezes a resposta é essa análise mais simples, mas boa o suficiente.
+  * Avalie os dados
+    * Os dados que servirão de insumo para as análises precisam ser de qualidade, relevantes e suficientemente abrangentes.
+  * Evite a parálise
+    * Um problema muito comum ao fazer análises é perder-se nos detalhes, o que pode levar ao que chamamos de parálise. Depois de mergulhar por um tempo nas análises, você precisa subir para tomar ar, sintetizar o que já aprendeu e ver se precisa ajustar alguma coisa no seu plano:
+      * Ainda estamos trabalhando nas prioridades certas?
+      * O que já podemos dizer sobre nossas hipóteses?
+      * Precisamos refinar nossas hipóteses?
+      * Temos hipóteses novas?
+    * Por isso é importante sempre alternar entre hipótese, análise e síntese das análises.
+
+* Visão geral de análises avançadas
+  * Análise de cenários - projeções
+    * Definir quais são as principais incertezas
+    * Criar cenários plausíveis do futuro e se preparar
+    * Poder mudar de estratégia rapidamente
+    * Definir indicadores para cada cenário
+    * Mudar suas apostas e reduzir incertezas
+    * Indicadores macroeconômicos, sinais do governo, clientes, avanços tecnológicos, etc
+  * Testar e adaptar
+    * Design thinking - desenvolvimento de produtos.
+    * Lean startup - gestão de empresas.
+    * Metodologias são mais importantes em situações incertas e complexas.
+  * Redes neurais
+    * São modelos computacionais inspirados no funcionamento do cérebro e que buscam representam uma função matemática.
+
