@@ -42,8 +42,6 @@
     * Muito aberta pode deixar a esquipe perdida
     * Protege de armadilhas
   * Questionar as restrições
-  
-<br>
 
 * Seja SMART ao definir o problema!
 
@@ -53,8 +51,6 @@
     <center> A = orientado à Ação </center>
     <center> R = Relevante </center>
     <center> T = Tempo definido </center>
-
-<br>
 
 * Sonhe grande ao definir o problema
 
@@ -67,8 +63,6 @@
   * A definição do problema deve ser desafiadora. Se você já sabe como resolver, não está sonhando alto o bastante.
 
   * Formule o problema de forma positiva.
-
-<br>
 
 * O guia de definição do problema
 
@@ -100,14 +94,10 @@
     * Seja criativo; olhe para o não óbvio.
     * Defina as fontes de forma específica - defina quem, o que, como e porquê, de modo que estejam rapidamente acessíveis quando necessário.
 
-<br>
-
 * Resolvendo problemas urgentes
   * Não tome decisões com base na primeira impressão ou ideia.
   * Use a definição do problema como aliada.
   * Pense nos elementos do guia de definição do problema, principalmente as partes envolvidas e o escopo.
-
-<br>
 
 ## Capítulo 2 - Estruturação
 
@@ -119,8 +109,6 @@ A partir da estrutura, é importante convergir para uma hipótese de solução e
   * Problemas complexos possuem diversas frentes e perspectivas que precisam ser consideradas.
   * Quebrar o problema ajuda a ter mais clareza sobre os próximos passos.
   * Uma boa estrutura ajuda na divisão do trabalho de análise e facilita a priorização.
-
-<br>
 
 * Usando árvores lógicas para estruturar o problema
   * Árvores lógicas quebram o problema de forma visual.
@@ -156,9 +144,6 @@ Exemplo
   * Coletivamente Exaustivo significa que, em cada nível da árvore, as alternativas cobrem todas as possibilidades de solução.
   * O objetivo é que todos os níveis da árvore sejam MECE mas nem sempre isso é possível. Cuidado com o perfeccionismo - é melhor ter uma primeira versão no papel, mesmo que ainda não seja a versão ideal, e iterar com outras pessoas envolvidas no problema para capturar outras perspectivas e tornar sua árvore mais relevante.
 
-<br>
-
-
 * Dicas para construir árvores de questões
   * **Mantenha simples e ajuste depois.** Você não deveria gastar uma semana montando uma árvore perfeita porque não existe árvore perfeita. Há mais de uma boa solução de árvore para cada problema.
   * **Faça uma primeira versão e itere. Compartilhe!** Sua árvore vai mudar e evoluir à medida que você pegar inputs de outras pessoas e à medida que mais fatos vão sendo revelados.
@@ -170,7 +155,6 @@ Exemplo
     * **Insightful** - cheque também se a sua árvore traz uma perspectiva diferente, não óbvia. Se não for o caso, busque novas perspectivas e pense fora da caixa.
     * **Analisável** - para cada estremidade de galho, você consegue definir ações claras, análises, testes ou atividades que vão levar à resposta das perguntas? Se não, pode se que a sua estrutura não esteja completa.
 
-<br>
 
 * Árvore de hipóteses
   * Criar a hipótese e testar via análises.
@@ -179,19 +163,15 @@ Exemplo
   * A árvore de hipóteses é construída a partir deste "chute" inicial que será testado.
   * Caso você não tenha familiaridade com o problema, envolva alguém que conheça o problema a fundo (por ex. um expecialista) para ajudar a criar uma boa hipótese.
 
-<br>
 
 * Criando uma árvore de hipóteses
   * A árvore de hipóteses é estruturada a partir de uma hipótese ou perspectiva de solução.
   * A partir daí, é construída com os argumentos necessários para suportar essa hipótese. Ao contrário da árvore de questôes que é construída com perguntas que abrem diversas hipóteses de solução, a árvore de hipóteses busca testar se a nossa hipótese inicial está correta ou não.
 
-<br>
-
 * As armadilhas das hipóteses
   * A árvore de hipóteses pode acelerar bastante o processo de resolução de problemas, porém existe o risco de viés da confirmação.
   * O viés da confirmação é a tendência de dar mais peso aos argumentos que comprovam a nossa hipótese.
   * Algumas técnicas podem te ajudar a evitar este viés: advogado do diabo; time azul vs time vermelho; teste da opção descartada.
-<br>
 
 * Você inovando
   * Habilidades que podem ser exercitadas para ser mais criativo:
@@ -200,8 +180,6 @@ Exemplo
     * Questionamento - questionar o status quo.
     * Networking -  conversar para obter diferentes perspectivas.
     * Experimentação - levantar hipóteses para testar e aprender.
-
-<br>
 
 * Sessões de trabalho mais criativas
   * **Brainstorming**:
@@ -216,7 +194,6 @@ Exemplo
   * O brainsteering é uma espécia de brainstorming 2.0 e tem alguns princípios de funcionamento: perguntas mais focadas; processo iterativo de divergência e convergência de ideias; foco nas ideias mais promissoras.
   * Para aumentar a chance de ter ideias inovadoras na sua equipe, busque montar uma equipe diversa, fomente a empatia e garanta o equilíbrio de voz entre os participantes.
 
-<br>
 
 ## Capítulo 3 - Priorização
 
@@ -262,7 +239,7 @@ Exemplo
 
 ## Capítulo 4 - Análise
 
-* Esta etapa pode ser a mais demorada e, por isso, precisa ser planejada com cuidado. Tipicamente, a fase de análise é onde a coordenação e o trabalho em equipe são mais relevantes, pois é necessário sintetizar frequentemente os aprendizados das diferentes análises, de modo a garantir que a solução encontrada é robusta o suficiente.
+Esta etapa pode ser a mais demorada e, por isso, precisa ser planejada com cuidado. Tipicamente, a fase de análise é onde a coordenação e o trabalho em equipe são mais relevantes, pois é necessário sintetizar frequentemente os aprendizados das diferentes análises, de modo a garantir que a solução encontrada é robusta o suficiente.
 
 * Um mundo cada vez mais analítico
   * Temos uma tendência a superestimar nossas habilidades e a probabilidade de eventos futuros favoráveis.
@@ -325,3 +302,31 @@ Exemplo
   * Redes neurais
     * São modelos computacionais inspirados no funcionamento do cérebro e que buscam representam uma função matemática.
 
+## Capítulo 5 - Recomendação
+
+Depois da etapa da análise, você terá dados que provam suas hipóteses e maior clareza de que caminho seguir para resolver seu problema. Agora, você precisa comunicar as suas conclusões, ou seja, fazer uma recomendação de forma que seus interlocutores comprem sua ideia, entendam o que precisa ser feito e apoiem a implementação da solução.
+
+> Uma visão sem ação não passa de um sonho. Ação sem visão é só um passatempo. Mas uma visão com ação pode mudar o mundo. - Joel Barker
+
+* Introdução à recomendação
+  * Fazer uma boa recomendação é fundamental para que o seu trabalho na solução do problema resulte em mudanças concretas.
+  * Possíveis problemas:
+    * Não tem síntese clara
+    * Não é suficientemente sintética
+    * Falta de grau de granularidade adequado
+    * Falta de tradução em um plano de ação concreto
+    * Gestão de mudança inadequada
+
+* O poder da síntese
+  * Síntese é "o método, processo ou operação que consiste em reunir elementos diferentes, concretos ou abstratos, e fundi-los num todo coerente".
+  * Um resumo é uma reafirmação condensada dos fatos, enquanto a síntese deve conter uma implicação. A síntese exige que você desenvolva um ponto de vista.
+  * A maioria das pessoas tem dificuldade neste processo, pois é bem mais fácil reportar o que foi feito do que propor uma solução.
+  * Ao finalizar suas análises, pense: a que conclusão elas estão levando? O que deve ser feito para resolver o problema com base no que foi aprendido até aqui?
+
+* A síntese do elevador
+  * Exercite a síntese durante todo o projeto. Esse processo ajuda a deixar o seu pensamento mais claro e a garantir que você está cobrindo todos os pontos que realmente importam.
+  * Uma boa prática é revisar a síntese com frequência. Você pode criar um hábito de enviá-la para si mesmo a cada par de dias, dependendo da dinâmica do seu projeto.
+
+* Fazendo uma boa recomendação
+
+* Testando a robustez da sua recomendação
