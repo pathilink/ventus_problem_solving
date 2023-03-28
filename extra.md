@@ -13,3 +13,7 @@
 * Lafley's P&G Brand Cull and the 80/20 Rule [Artigo](https://hbr.org/2014/08/lafleys-pg-brand-cull-and-the-8020-rule)
 
 * Strategic decisions: When can you trust your gut? [Artigo](https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/strategic-decisions-when-can-you-trust-your-gut)
+
+* Ideias que colam - Por que algumas ideias pegam e outras não - Chip Heath, Dan Heath [Livro](https://www.amazon.com.br/Ideias-que-Colam-algumas-ideias/dp/8550803669)
+
+* The four building blocks of change - McKinsey Quartely [Artigo](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/the-four-building-blocks--of-change)

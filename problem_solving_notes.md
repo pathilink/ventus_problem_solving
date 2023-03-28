@@ -328,5 +328,45 @@ Depois da etapa da análise, você terá dados que provam suas hipóteses e maio
   * Uma boa prática é revisar a síntese com frequência. Você pode criar um hábito de enviá-la para si mesmo a cada par de dias, dependendo da dinâmica do seu projeto.
 
 * Fazendo uma boa recomendação
+  * Uma boa recomendação deve ser
+    * **Propositiva**
+      * Comece com a síntese, respondendo a questão-chave.
+      * Faça um plano com próximos passos claros, prazos e responsáveis.
+    * **Granular**
+      * Cuidado - uma boa recomendação não pode ficar só no alto nível.
+      * Defina ações concretas, específicas e com um nível de detalhe suficiente para garantir que as pessoas vão comprar a sua ideia e conseguir implementá-la.
+    * **Na medida**
+      * Garanta que a organização tem meios e recursos para implementar a sua recomendação.
+      * Leve em consideração o contexto da empresa: é melhor dar um pequeno passo firme na direção correta do que buscar dar um salto maior que não é viável nas condições atuais.
+    * **Monitorável**
+      * Defina resultados esperados.
+      * Defina indicadores para monitoramento.
+      * Defina reuniões de "check-in" e "marcos" para monitoramento do progresso.
+    * **Orientada à mudança**
+      * Defina um plano de ação para as principais mudanças que você quer realizar. Responda às seguintes perguntas: Como você vai convencer as pessoas a mudarem sua forma de trabalho? Como os incentivos, métricas de negócio e estrutura organizacional ajudam ou atrapalham a mudança? O que podemos fazer a respeito? As pessoas envolvidas têm as competências necessárias? A liderança comprou a solução e vai apoiar a mudança?
+      * Entenda os principais riscos que podem impedir o sucesso da sua recomendação e estabeleça um plano para mitigá-los.
 
 * Testando a robustez da sua recomendação
+  * A melhor forma de testar a qualidade da sua recomendação é fazer uma boa análise de riscos.
+  * O pré-mortem é uma técnica que permite avaliar e se antecipar aos principais riscos envolvidos na sua recomendação, incorporando novos elementos que dão mais robustez ao seu projeto.
+  * Para fazer análise pré-mortem, se projete no futuro e imagine os diferentes tipos de falhas que podem ter ocorrido na implementação da sua solução. Depois pense em ações específicas para mitigar os principais riscos levantados.
+  * Durante o pré-mortem, é importante que você suspenda temporariamente as crenças de que tudo vai sair conforme planejado. Aproveite para explorar todas as dúvidas que ainda estão presentes no seu inconsciente.
+
+## Capítulo 6 - Conclusão
+
+* A prática do método vai te ajudar a adequá-lo para cada situação.
+* Em situações que pedem solução imediata, desafie se o problema realmente precisa ser resolvido na hora. Caso afirmativo, faça um check mental sobre os principais elementos do guia de definição do problema (por exemplo, o que é sucesso, restrições, envolvidos, etc).
+* Em situações que você tem um pouco mais de tempo, de 1 a 2 semanas, o passo mais importante é a priorização pois você não vai ter tempo de fazer muitas análises. Também busque trazer múltiplas perspectivas para enriquecer a solução.
+* Em projetos grandes, complexos, onde tem muitos recursos em jogo, algumas coisas são particularmente importantes:
+  * Pensar criativamente e inovar ao estruturar o problema.
+  * Planejar análises, garantindo que você está focando no 80/20.
+  * Investir tempo em uma recomendação sintética e convincente.
+  * Envolver e engajar as pessoas que vão participar da implementação.
+* Dicas para fazer a metodologia "entrar no sangue":
+  * Comece pequeno - com problemas mais simples, treinando um passo de cada vez.
+  * Foque em estruturar seu pensamento, fazendo árvores de questões.
+  * Envolva seu time ou outras pessoas para desafiar seu pensamento e acelerar sua curva de aprendizado.
+  * Continue lendo e estudando sobre Resolução de Problemas.
+  * Ensine a metodologia para outras pessoas.
+
+> "Todo mundo começa forte. O sucesso vem para aqueles que têm um compromisso inabalável de continuar assim até o fim." - Howard Schltz, CEO Starbucks
