@@ -208,7 +208,7 @@ Exemplo
 
 [Retorna à Tabela de Conteúdos](#tabela-de-conteúdos)
 
-> "Decidir o que fazer é tão importante quanto decidir o que fazer." - Steve Jobs
+> "Decidir o que não fazer é tão importante quanto decidir o que fazer." - Steve Jobs
 
 * Quando você tem um problema complexo, com vários elementos para resolver, é normal a sensação de paralização ou de perda de tempo passando de uma coisa para outra sem muito foco.
 
