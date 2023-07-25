@@ -1,6 +1,18 @@
-## Introdução
+# Tabela de Conteúdos
 
-[Retorna a Tabela de Conteúdos](#Tabela-de-Conteúdos)
+[1. Definição](#1-definição)
+
+[2. Estruturação](#2-estruturação)
+
+[3. Priorização](#3-priorização)
+
+[4. Análise](#4-análise)
+
+[5. Recomendação](#5-recomendação)
+
+[6. Conclusão](#6-conclusão)
+
+## Introdução
 
 ## 5 passos do método resolução de problemas
 
@@ -29,11 +41,10 @@
 
 **Importante:** engajar as pessoas durante todo o processo.
 
-<br>
 
-## Capítulo 1 - Definição
+## 1. Definição
 
-[Retorna a Tabela de Conteúdos](#tabela-de-conte%C3%BAdos)
+[Retorna à Tabela de Conteúdos](#tabela-de-conteúdos)
 
 * Por que investir tempo em definir o problema?
 
@@ -99,7 +110,9 @@
   * Use a definição do problema como aliada.
   * Pense nos elementos do guia de definição do problema, principalmente as partes envolvidas e o escopo.
 
-## Capítulo 2 - Estruturação
+## 2. Estruturação
+
+[Retorna à Tabela de Conteúdos](#tabela-de-conteúdos)
 
 Estruturar é quebrar o problema em partes menores. Existem várias maneiras de estruturar e isso vai depender do tipo e da complexidade do problema.
 
@@ -137,7 +150,6 @@ Exemplo
 
 <br>
 
-
 * Seja MECE!
   * MECE significa Mutuamente Excludente Coletivamente Exaustivo.
   * Mutuamente Excludente significa que diferentes galhos no mesmo nível da árvore não se sobrepõem.
@@ -155,14 +167,12 @@ Exemplo
     * **Insightful** - cheque também se a sua árvore traz uma perspectiva diferente, não óbvia. Se não for o caso, busque novas perspectivas e pense fora da caixa.
     * **Analisável** - para cada estremidade de galho, você consegue definir ações claras, análises, testes ou atividades que vão levar à resposta das perguntas? Se não, pode se que a sua estrutura não esteja completa.
 
-
 * Árvore de hipóteses
   * Criar a hipótese e testar via análises.
   * Refinar a hipótese e testar novamente via análises.
   * Uma hipótese é o melhor "chute" que você pode dar sobre a resposta do ser problema.
   * A árvore de hipóteses é construída a partir deste "chute" inicial que será testado.
   * Caso você não tenha familiaridade com o problema, envolva alguém que conheça o problema a fundo (por ex. um expecialista) para ajudar a criar uma boa hipótese.
-
 
 * Criando uma árvore de hipóteses
   * A árvore de hipóteses é estruturada a partir de uma hipótese ou perspectiva de solução.
@@ -194,8 +204,9 @@ Exemplo
   * O brainsteering é uma espécia de brainstorming 2.0 e tem alguns princípios de funcionamento: perguntas mais focadas; processo iterativo de divergência e convergência de ideias; foco nas ideias mais promissoras.
   * Para aumentar a chance de ter ideias inovadoras na sua equipe, busque montar uma equipe diversa, fomente a empatia e garanta o equilíbrio de voz entre os participantes.
 
+## 3. Priorização
 
-## Capítulo 3 - Priorização
+[Retorna à Tabela de Conteúdos](#tabela-de-conteúdos)
 
 > "Decidir o que fazer é tão importante quanto decidir o que fazer." - Steve Jobs
 
@@ -237,7 +248,9 @@ Exemplo
   * Desafie sua priorização inicial
     * Pense em que atalhos poderia tomar. Pergunte-se: "e se eu só tivesse a metade do tempo, o que faria?" Essa pergunta nos força a pensar em atalhos e a entender o que é realmente importante.
 
-## Capítulo 4 - Análise
+## 4. Análise
+
+[Retorna à Tabela de Conteúdos](#tabela-de-conteúdos)
 
 Esta etapa pode ser a mais demorada e, por isso, precisa ser planejada com cuidado. Tipicamente, a fase de análise é onde a coordenação e o trabalho em equipe são mais relevantes, pois é necessário sintetizar frequentemente os aprendizados das diferentes análises, de modo a garantir que a solução encontrada é robusta o suficiente.
 
@@ -302,7 +315,9 @@ Esta etapa pode ser a mais demorada e, por isso, precisa ser planejada com cuida
   * Redes neurais
     * São modelos computacionais inspirados no funcionamento do cérebro e que buscam representam uma função matemática.
 
-## Capítulo 5 - Recomendação
+## 5. Recomendação
+
+[Retorna à Tabela de Conteúdos](#tabela-de-conteúdos)
 
 Depois da etapa da análise, você terá dados que provam suas hipóteses e maior clareza de que caminho seguir para resolver seu problema. Agora, você precisa comunicar as suas conclusões, ou seja, fazer uma recomendação de forma que seus interlocutores comprem sua ideia, entendam o que precisa ser feito e apoiem a implementação da solução.
 
@@ -352,7 +367,9 @@ Depois da etapa da análise, você terá dados que provam suas hipóteses e maio
   * Para fazer análise pré-mortem, se projete no futuro e imagine os diferentes tipos de falhas que podem ter ocorrido na implementação da sua solução. Depois pense em ações específicas para mitigar os principais riscos levantados.
   * Durante o pré-mortem, é importante que você suspenda temporariamente as crenças de que tudo vai sair conforme planejado. Aproveite para explorar todas as dúvidas que ainda estão presentes no seu inconsciente.
 
-## Capítulo 6 - Conclusão
+## 6. Conclusão
+
+[Retorna à Tabela de Conteúdos](#tabela-de-conteúdos)
 
 * A prática do método vai te ajudar a adequá-lo para cada situação.
 * Em situações que pedem solução imediata, desafie se o problema realmente precisa ser resolvido na hora. Caso afirmativo, faça um check mental sobre os principais elementos do guia de definição do problema (por exemplo, o que é sucesso, restrições, envolvidos, etc).
